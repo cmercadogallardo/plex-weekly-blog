@@ -1,0 +1,15 @@
+title: PLEX Weekly Blog
+description: Blog semanal de ciencia, astronomia y divulgacion cientifica con identidad PLEX.
+lang: es
+theme: null
+markdown: kramdown
+permalink: pretty
+collections_dir: .
+include:
+  - issues
+  - assets
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: null
